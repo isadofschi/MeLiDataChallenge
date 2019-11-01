@@ -14,5 +14,5 @@ Utilicé esta instancia porque el modelo requiere bastante memoria (257GB al ent
 
 ### Puntaje público (`test.ipynb`): 0.89207 (puesto  22)
 
-### Puntaje privado  (`test.ipynb`): ????? (puesto ?)
+### Puntaje privado  (`test.ipynb`): 0.89299 (puesto 22)
 
